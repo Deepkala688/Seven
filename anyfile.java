@@ -12,4 +12,7 @@ class myName{
 	public void studentName() {
 		System.out.println("Sonia");
 	}
+	public void anyNumber() {
+		
+	}
 }

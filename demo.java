@@ -4,5 +4,7 @@ public class demo {
 	public void anyMethod(){
 		
 	}
-
+public void anykind() {
+	
+}
 }
