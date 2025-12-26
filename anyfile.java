@@ -9,4 +9,7 @@ class myName{
 		System.out.println("Deepkala Shrestha");
 	}
 	
+	public void studentName() {
+		System.out.println("Sonia");
+	}
 }
